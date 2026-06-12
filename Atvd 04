@@ -1,0 +1,44 @@
+print('==========Calculadora(/)==========')
+
+#soma
+print('-Vamos fazer uma Soma!')
+print('\n')
+
+n1 = float( input('Digite o primeiro valor ') )
+n2 = float( input('Digite outro valor ') )
+
+soma = n1 + n2
+
+print('A Soma deu',soma)
+print('\n')
+
+#subtração
+print('-Agora vamos fazer a Subtração!')
+n3 = float( input('Digite o primeiro valor ') )
+n4 = float( input('Digite outro valor ') )
+
+subtracao = n3 - n4
+
+print('A Subtração deu',subtracao)
+print('\n')
+
+#multiplicação
+print('-Agora vamos fazer a Multiplicação!')
+n5 = float( input('Digite o primeiro valor ') )
+n6 = float( input('Digite outro valor ') )
+
+multiplicacao = n5 * n6
+
+print('A Multiplicação deu' , multiplicacao)
+
+#divisão
+print('-E por fim, vamos fazer a divisão!')
+n7 = float( input('Digite o primeiro valor ') )
+n8 = float( input('Digite outro valor ') )
+
+divisao = n7 * n8
+
+print('A Divisão deu' , divisao)
+
+
+
