@@ -1,0 +1,48 @@
+#1-Imprima uma mensagem de boas-vindas na tela.
+print("Boas vindas")
+
+#2- Declare uma variável booleana verdadeiro com o valor True e imprima seu tipo
+valor= True
+print(valor)
+
+#3-Imprima o resultado da multiplicação de dois números decimais de sua escolha
+multiplicacao= 3.4 * 2.3
+print(multiplicacao)
+
+#4-Imprima o resultado da divisão (/)de dois números inteiros de sua escolha.
+divisao= 10 / 2
+print(divisao)
+
+#5-Imprima o resultado da subtração de dois números inteiros de sua escolha
+subtracao= 40 - 3
+print(subtracao)
+
+#6-Imprima o resultado da divisão (//)inteira de dois números inteiros de sua escolha.
+resul = 10//2
+print(resul)
+
+#7-Imprima o resultado da multiplicação de 4 números
+multiplicacao_4= 3 * 5 * 2 * 10
+print(multiplicacao_4)
+
+#8-Declare uma variável numero e atribua um número inteiro. Em seguida, imprima o dobro desse número
+numero= 2
+print(numero * 2)
+
+#9-Crie um sistema de cadastro com as estruturas que vc já conhece(Use apenas input, print e variavel)
+# nome, email, idade, cidade, gradução, estado civil
+nome = input("Qual seu Nome? ")
+email = input("Qual é seu Email? ")
+idade = input("Qual sua Idade? ")
+cidade = input("Qual sua Cidade? ")
+graduacao = input("Qual sua Graduação? ")
+estado_civil = input("Qual seu Estado Civil? ")
+print(nome, email, idade, cidade, graduacao, estado_civil)
+
+
+
+
+
+
+
+
